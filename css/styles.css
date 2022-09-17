@@ -11397,11 +11397,11 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: #82a0a1;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: #82a0a1;
   }
 
   #mainNav.navbar-shrink {
@@ -11482,7 +11482,7 @@ html {
 }
 
 .portfolio-modal .btn-close {
-  color: #1abc9c;
+  color: #82a0a1;
   font-size: 2rem;
   padding: 1rem;
 }
@@ -11505,5 +11505,5 @@ html {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #82a0a1;
 }
